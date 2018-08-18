@@ -1,7 +1,278 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3041e98-0515-4a1e-9d61-749891f0a3d8" name="Default" comment="" />
+    <list default="true" id="a3041e98-0515-4a1e-9d61-749891f0a3d8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/bin/chardetect" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/bin/wsdump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/certifi-2018.8.13.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/certifi-2018.8.13.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/certifi-2018.8.13.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/certifi-2018.8.13.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/certifi-2018.8.13.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/certifi-2018.8.13.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/certifi-2018.8.13.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/certifi-2018.8.13.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/certifi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/certifi/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/certifi/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/certifi/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/big5freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/big5prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/chardistribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/charsetgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/charsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/cli/chardetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/codingstatemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/cp949prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/escprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/escsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/eucjpprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/euckrfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/euckrprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/euctwfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/euctwprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/gb2312freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/gb2312prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/hebrewprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/jisfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/jpcntx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/langbulgarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/langcyrillicmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/langgreekmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/langhebrewmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/langhungarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/langthaimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/langturkishmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/latin1prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/mbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/mbcssm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/sbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/sbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/sjisprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/universaldetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/utf8prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/chardet/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker-3.5.0.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker-3.5.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker-3.5.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker-3.5.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker-3.5.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker-3.5.0.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker-3.5.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/container.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/daemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/exec_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/plugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/secret.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/swarm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/volume.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/configs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/containers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/networks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/plugins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/secrets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/swarm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/volumes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/tls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/transport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/transport/npipeconn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/transport/npipesocket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/transport/ssladapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/transport/unixconn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/types/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/types/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/types/containers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/types/daemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/types/healthcheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/types/networks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/types/services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/types/swarm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/utils/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/utils/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/utils/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/utils/fnmatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/utils/json_stream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/utils/ports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/utils/socket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/utils/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker_pycreds-0.3.0.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker_pycreds-0.3.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker_pycreds-0.3.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker_pycreds-0.3.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker_pycreds-0.3.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker_pycreds-0.3.0.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker_pycreds-0.3.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/dockerpycreds/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/dockerpycreds/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/dockerpycreds/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/dockerpycreds/store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/dockerpycreds/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/dockerpycreds/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/idna-2.7.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/idna-2.7.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/idna-2.7.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/idna-2.7.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/idna-2.7.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/idna-2.7.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/idna/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/idna/codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/idna/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/idna/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/idna/intranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/idna/package_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/idna/uts46data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests-2.19.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/_internal_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/certs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/six-1.11.0.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/six-1.11.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/six-1.11.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/six-1.11.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/six-1.11.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/six-1.11.0.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/six-1.11.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3-1.23.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/connectionpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/contrib/appengine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/contrib/ntlmpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/contrib/pyopenssl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/contrib/socks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/filepost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/packages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/packages/backports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/packages/ordered_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/packages/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/poolmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/util/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/util/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/util/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/util/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/util/retry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/util/ssl_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/util/timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/util/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/urllib3/util/wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/_abnf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/_cookiejar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/_core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/_handshake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/_logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/_socket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/_ssl_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/tests/data/header01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/tests/data/header02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/tests/test_cookiejar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket/tests/test_websocket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket_client-0.49.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket_client-0.49.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket_client-0.49.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket_client-0.49.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/websocket_client-0.49.0.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wizard/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/wizard/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wizard/arguments_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/wizard/arguments_checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wizard/errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/wizard/errors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wizard/service_manager/cleaner.py" beforeDir="false" afterPath="$PROJECT_DIR$/wizard/service_manager/cleaner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wizard/service_manager/manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/wizard/service_manager/manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/click/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/click/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/click/formatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/click/formatting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/click/testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/click/testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/click/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/click/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/temp_dir.py" beforeDir="false" afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/temp_dir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/compat.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,28 +281,63 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/wizard_project$wizard_project.coverage" NAME="wizard_project Coverage Results" MODIFIED="1534482396260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/wizard_project$wizard_project.coverage" NAME="wizard_project Coverage Results" MODIFIED="1534614697412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wizard/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="manager.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wizard/service_manager/manager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="73" column="55" selection-start-line="73" selection-start-column="55" selection-end-line="73" selection-end-column="55" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="service_manager.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wizard/service_manager.py">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="70" lean-forward="true" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="19">
+              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="info_getter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wizard/service_manager/info_getter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arguments_checker.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wizard/arguments_checker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="errors.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wizard/errors.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,7 +345,27 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/utils/build.py" />
         <option value="$PROJECT_DIR$/wizard/service_manager.py" />
+        <option value="$PROJECT_DIR$/wizard/manager/utils.py" />
+        <option value="$PROJECT_DIR$/wizard/__init__.py" />
+        <option value="$PROJECT_DIR$/wizard/request_argument_checker.py" />
+        <option value="$PROJECT_DIR$/wizard/argument_checker.py" />
+        <option value="$PROJECT_DIR$/wizard/arguments_checker/errors.py" />
+        <option value="$PROJECT_DIR$/wizard/arguments_checker/argument_checker.py" />
+        <option value="$PROJECT_DIR$/wizard/arguments_checker/argument_error.py" />
+        <option value="$PROJECT_DIR$/error_type.py" />
+        <option value="$PROJECT_DIR$/wizard/arguments_checker/error_type.py" />
+        <option value="$PROJECT_DIR$/wizard/arguments_checker/checker.py" />
+        <option value="$PROJECT_DIR$/errors.py" />
+        <option value="$PROJECT_DIR$/wizard/service_manager/utils.py" />
+        <option value="$PROJECT_DIR$/wizard/arguments_checker.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/wizard/service_manager/cleaner.py" />
+        <option value="$PROJECT_DIR$/wizard/errors.py" />
+        <option value="$PROJECT_DIR$/wizard/service_manager/info_getter.py" />
+        <option value="$PROJECT_DIR$/wizard/service_manager/manager.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -64,7 +390,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,10 +402,17 @@
               <item name="wizard_project" type="462c0819:PsiDirectoryNode" />
               <item name="wizard" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="wizard_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wizard_project" type="462c0819:PsiDirectoryNode" />
+              <item name="wizard" type="462c0819:PsiDirectoryNode" />
+              <item name="service_manager" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -89,6 +421,13 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wizard" />
+      <recent name="$PROJECT_DIR$/wizard/arguments_checker" />
+      <recent name="$PROJECT_DIR$/wizard/manager" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,7 +452,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="$PROJECT_DIR$/wizard/venv/bin/python3.6" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -139,27 +478,50 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33077765" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33077765" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20619658" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39868566" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20192307" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33077765" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39868566" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -169,20 +531,260 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/utils/build.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wizard/service_manager/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/arguments_checker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/errors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/service_manager/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/arguments_checker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/errors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/service_manager/info_getter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/service_manager/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wizard/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wizard/service_manager.py">
+    <entry file="file://$PROJECT_DIR$/wizard/service_manager/manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="70" lean-forward="true" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+        <state relative-caret-position="247">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/utils/build.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="85" column="46" lean-forward="true" selection-start-line="85" selection-start-column="46" selection-end-line="85" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib64/python3.6/site-packages/docker/models/images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="110" column="18" selection-start-line="110" selection-start-column="18" selection-end-line="110" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/requests/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="494" selection-start-line="494" selection-end-line="494" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/werkzeug/serving.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="781" column="22" selection-start-line="781" selection-start-column="22" selection-end-line="781" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="212" selection-start-line="212" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/utils/decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/arguments_checker.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error_type.py" />
+    <entry file="file://$PROJECT_DIR$/wizard/arguments_checker/error.py" />
+    <entry file="file://$PROJECT_DIR$/wizard/arguments_checker/error_type.py" />
+    <entry file="file://$PROJECT_DIR$/wizard/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#15#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/resource.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib64/python3.6/site-packages/docker/api/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1530">
+          <caret line="95" column="8" selection-start-line="95" selection-start-column="8" selection-end-line="95" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib64/python3.6/site-packages/docker/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/api/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="468" column="8" selection-start-line="468" selection-start-column="8" selection-end-line="468" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="424" column="34" selection-start-line="424" selection-start-column="34" selection-end-line="424" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/werkzeug/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="922" selection-start-line="922" selection-end-line="922" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1013460922/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/service_manager/cleaner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/arguments_checker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/errors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/venv/lib/python3.6/site-packages/docker/models/containers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="868" column="27" selection-start-line="868" selection-start-column="19" selection-end-line="868" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/service_manager/info_getter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wizard/service_manager/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="73" column="55" selection-start-line="73" selection-start-column="55" selection-end-line="73" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
         </state>
       </provider>
     </entry>
