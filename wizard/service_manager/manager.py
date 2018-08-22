@@ -57,9 +57,13 @@ def _clear_service_repo():
 
 
 @bp.route('/list', methods=['GET'])
-@arguments_checker.check(compulsory_args=['running'])
+@arguments_checker.check(
+    compulsory_args=['running'],
+    formats={
+        'running': lambda arg: arg == 'true' or arg == 'false'
+    })
 def get_services_list():
-    if request.args.get('running') == 'True':
+    if request.args.get('running') == 'true':
         containers = docker_client.containers.list()
         message = str(list(map(lambda c: get_service_info(c.image), containers)))
     else:
