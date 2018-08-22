@@ -31,11 +31,13 @@ def __check(compulsory_args=None, formats=None):
         if request.args.get(name) is None:
             error = build_response(ResponseCode.ARGUMENT_NOT_PASS_ERROR, is_error=True,
                                    message=f'{name} argument missed')
+            break
 
     for name, format_checker in formats.items():
         arg = request.args.get(name)
         if arg and not format_checker(arg):
             error = build_response(ResponseCode.ARGUMENT_INVALID_FORMAT_ERROR, is_error=True,
                                    message=f'{name} argument has invalid format')
+            break
 
     return error

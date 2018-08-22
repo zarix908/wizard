@@ -13,13 +13,14 @@ from wizard.service_manager.info_getter import get_service_info
 bp = Blueprint('service_manager', __name__, url_prefix='/service')
 
 docker_client = None
+name_argument_format = re.compile(r'^[\w\d\-_ ]*$')
 
 
 @bp.route('/build', methods=['GET'])
 @arguments_checker.check(
     compulsory_args=['path', 'name'],
     formats={
-        'name': lambda arg: re.match(r'[\w\d\-_ ]', arg),
+        'name': name_argument_format.match,
         'path': os.path.isdir
     })
 def build_service():
@@ -31,7 +32,7 @@ def build_service():
 @arguments_checker.check(
     compulsory_args=['name'],
     formats={
-        'name': lambda arg: re.match(r'[\w\d\-_ ]', arg)
+        'name': name_argument_format.match
     })
 def remove_service():
     try:
@@ -72,7 +73,7 @@ def get_services_list():
 @arguments_checker.check(
     compulsory_args=['name'],
     formats={
-        'name': lambda arg: re.match(r'[\w\d\-_ ]', arg)
+        'name': name_argument_format.match
     })
 def run_service():
     name = request.args.get('name')
@@ -85,7 +86,7 @@ def run_service():
 @arguments_checker.check(
     compulsory_args=['name'],
     formats={
-        'name': lambda arg: re.match(r'[\w\d\-_ ]', arg)
+        'name': name_argument_format.match
     })
 def stop_service():
     for container in docker_client.containers.list(filters={'name': request.args.get('name')}):
